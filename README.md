@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - [Node JS API][node-js-api]
 
 **MY GITHUB REPOS**
-- [springsrikanth][SPRINGSRIKANTH]
+- [Spring Srikanth][SPRINGSRIKANTH]
 
 **Languages and Tools:**
 
