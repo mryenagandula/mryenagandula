@@ -11,6 +11,16 @@ Here are some ideas to get you started:
 - ⚡ Hobbies: Exploring more on new things.
 
 <br />
+** Angular **
+- [angular-material-forms][ Angular Material Forms]
+- [angular-material-forms-username-availability][ Angular Material Forms UserName Availabitlity]
+- [angular-formarray-example][ Angular Form Array]
+- [angular-material-table]:[Angular Material Table with Node JS API]
+- [angular-material-table-with-filter]:[Angular Material Table Filters with Node JS API]
+- [angular-material-table-with-checkboxes]:[Angular Material Table Checkboxes with Node JS API]
+
+** Node JS **
+- [node-js-api][Node JS API]
 
 **MY GITHUB REPOS**
 - [springsrikanth][SPRINGSRIKANTH]
@@ -34,6 +44,13 @@ Here are some ideas to get you started:
 [LetsTalk_Frontend]:https://github.com/SpringSrikanth/LetsTalk
 [LetsTalk_BackEnd]:https://github.com/SpringSrikanth/LetsTalk-Backend
 [CodeSandBoxURI]:https://codesandbox.io/dashboard/recent?workspace
+[angular-material-forms-username-availability]:https://github.com/mryenagandula/angular-material-forms-username-availability
+[angular-material-forms]:https://github.com/mryenagandula/angular-material-forms
+[angular-formarray-example]:https://github.com/mryenagandula/angular-formarray-example
+[angular-material-table]:https://github.com/mryenagandula/angular-material-table
+[angular-material-table-with-filter]:https://github.com/mryenagandula/angular-material-table-with-filter
+[angular-material-table-with-checkboxes]:https://github.com/mryenagandula/angular-material-table-with-checkboxes
+[node-js-api]:https://github.com/mryenagandula/Letstalk-Backend
 
 [SPRINGSRIKANTH]:https://github.com/springsrikanth
 
