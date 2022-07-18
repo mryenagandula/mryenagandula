@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - [angular-material-forms][ Angular Material Forms]
 - [angular-material-forms-username-availability][ Angular Material Forms UserName Availabitlity]
 - [angular-formarray-example][ Angular Form Array]
-- [angular-material-table]:[Angular Material Table with Node JS API]
-- [angular-material-table-with-filter]:[Angular Material Table Filters with Node JS API]
-- [angular-material-table-with-checkboxes]:[Angular Material Table Checkboxes with Node JS API]
+- [angular-material-table][Angular Material Table with Node JS API]
+- [angular-material-table-with-filter][Angular Material Table Filters with Node JS API]
+- [angular-material-table-with-checkboxes][Angular Material Table Checkboxes with Node JS API]
 
 ** Node JS **
 - [node-js-api][Node JS API]
