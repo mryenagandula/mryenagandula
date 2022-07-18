@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 <code><img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>
 <code><img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></code>
 <code><img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /></code>
+<code><img alt="Angular" width="50px" src="https://pluspng.com/img-png/angular-logo-png-javascript-logo-png-img-500-500-free-transparent-angular-900x500.jpg" /></code>
+
 
 <br />
 <br />
