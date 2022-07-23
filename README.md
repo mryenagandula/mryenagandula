@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - [Angular Material Table Search with Node JS API][angular-material-table-with-filter-and-search]
 - [Angular Material Table Checkboxes with Node JS API][angular-material-table-with-checkboxes]
 - [Angular Material Forms Adding Form Array in Forms][angular-material-forms-and-form-array]
+- [Angular Input and Output (Passing Data from parent to child and vice versa)][angular-input-and-output]
 
 **Node JS**
 - [Node JS API][node-js-api]
@@ -59,6 +60,7 @@ Here are some ideas to get you started:
 [angular-material-table-with-filter-and-search]:https://github.com/mryenagandula/angular-material-table-with-filter-and-search
 [angular-material-table-with-checkboxes]:https://github.com/mryenagandula/angular-material-table-with-checkboxes
 [angular-material-forms-and-form-array]:https://github.com/mryenagandula/angular-material-forms-and-form-array
+[angular-input-and-output]:https://github.com/mryenagandula/angular-input-and-output
 [node-js-api]:https://github.com/mryenagandula/Letstalk-Backend
 
 [SPRINGSRIKANTH]:https://github.com/springsrikanth
