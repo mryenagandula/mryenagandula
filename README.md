@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - [Angular Form Array Part 2][angular-formarray-example]
 - [Angular Material Table with Node JS API][angular-material-table]
 - [Angular Material Table Filters with Node JS API][angular-material-table-with-filter]
+- [Angular Material Table Search with Node JS API][angular-material-table-with-filter-and-search]
 - [Angular Material Table Checkboxes with Node JS API][angular-material-table-with-checkboxes]
 
 **Node JS**
@@ -54,6 +55,7 @@ Here are some ideas to get you started:
 [angular-formarray-example-2]:https://github.com/mryenagandula/angular-formarray-example-2
 [angular-material-table]:https://github.com/mryenagandula/angular-material-table
 [angular-material-table-with-filter]:https://github.com/mryenagandula/angular-material-table-with-filter
+[angular-material-table-with-filter-and-search]:https://github.com/mryenagandula/angular-material-table-with-filter-and-search
 [angular-material-table-with-checkboxes]:https://github.com/mryenagandula/angular-material-table-with-checkboxes
 [node-js-api]:https://github.com/mryenagandula/Letstalk-Backend
 
