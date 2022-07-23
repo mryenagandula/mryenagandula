@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 - [Angular Material Table Filters with Node JS API][angular-material-table-with-filter]
 - [Angular Material Table Search with Node JS API][angular-material-table-with-filter-and-search]
 - [Angular Material Table Checkboxes with Node JS API][angular-material-table-with-checkboxes]
+- [Angular Material Forms Adding Form Array in Forms][angular-material-forms-and-form-array]
 
 **Node JS**
 - [Node JS API][node-js-api]
@@ -57,6 +58,7 @@ Here are some ideas to get you started:
 [angular-material-table-with-filter]:https://github.com/mryenagandula/angular-material-table-with-filter
 [angular-material-table-with-filter-and-search]:https://github.com/mryenagandula/angular-material-table-with-filter-and-search
 [angular-material-table-with-checkboxes]:https://github.com/mryenagandula/angular-material-table-with-checkboxes
+[angular-material-forms-and-form-array]:https://github.com/mryenagandula/angular-material-forms-and-form-array
 [node-js-api]:https://github.com/mryenagandula/Letstalk-Backend
 
 [SPRINGSRIKANTH]:https://github.com/springsrikanth
