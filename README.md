@@ -23,9 +23,14 @@ Here are some ideas to get you started:
 - [Angular Material Table Checkboxes with Node JS API][angular-material-table-with-checkboxes]
 - [Angular Material Forms Adding Form Array in Forms][angular-material-forms-and-form-array]
 - [Angular Input and Output (Passing Data from parent to child and vice versa)][angular-input-and-output]
+- [Angular View Child with out using input and output (Passing Data from parent to child and vice versa)][angular-input-and-output-with-viewchild]
+- [Angular Ngrx Simple Example with Node Js API (Setting up angular app with NgRx)][angular-ngrx-simple-example]
+- [Angular Ngrx Example with Node Js API with out using input and output (Passing Data from parent to child and vice versa)][angular-ngrx-example]
 
 **Node JS**
 - [Node JS API][node-js-api]
+
+**Javs Script**
 
 **MY GITHUB REPOS**
 - [Spring Srikanth][SPRINGSRIKANTH]
@@ -61,6 +66,9 @@ Here are some ideas to get you started:
 [angular-material-table-with-checkboxes]:https://github.com/mryenagandula/angular-material-table-with-checkboxes
 [angular-material-forms-and-form-array]:https://github.com/mryenagandula/angular-material-forms-and-form-array
 [angular-input-and-output]:https://github.com/mryenagandula/angular-input-and-output
+[angular-input-and-output-with-viewchild]:https://github.com/mryenagandula/angular-input-and-output-with-viewchild
+[angular-ngrx-simple-example]:https://github.com/mryenagandula/angular-ngrx-simple-example
+[angular-ngrx-example]:https://github.com/mryenagandula/angular-ngrx-example
 [node-js-api]:https://github.com/mryenagandula/Letstalk-Backend
 
 [SPRINGSRIKANTH]:https://github.com/springsrikanth
