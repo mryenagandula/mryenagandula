@@ -31,6 +31,12 @@ Here are some ideas to get you started:
 - [Node JS API][node-js-api]
 
 **Javs Script**
+- [Callbacks](https://github.com/mryenagandula/Javascript_Callbacks)
+- [Promices](https://github.com/mryenagandula/Javascript_Promices)
+- [Objects](https://github.com/mryenagandula/Javascript_Objects)
+- [Recursion](https://github.com/mryenagandula/Javascript_Recursion)
+- [Functions Currying](https://github.com/mryenagandula/JavaScript_Functions_Currying)
+- [Function Closures](https://github.com/mryenagandula/JavaScript_Function_Closures)
 
 **Stackblitz - MrYenagandula (Live Examples)**
 - [Stackblitz Main Page](https://stackblitz.com/@mryenagandula)
