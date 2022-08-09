@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - [Angular View Child with out using input and output (Passing Data from parent to child and vice versa)][angular-input-and-output-with-viewchild]
 - [Angular Ngrx Simple Example with Node Js API (Setting up angular app with NgRx)][angular-ngrx-simple-example]
 - [Angular Ngrx Example with Node Js API with out using input and output (Passing Data from parent to child and vice versa)][angular-ngrx-example]
+- [Angular Service Integration](https://github.com/mryenagandula/angular-service-integration)
+- [Angular Load Data Based On Selection](https://github.com/mryenagandula/angular-load-data-based-on-selection)
 
 **Node JS**
 - [Node JS API][node-js-api]
