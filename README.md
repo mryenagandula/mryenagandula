@@ -37,6 +37,10 @@ Here are some ideas to get you started:
 - [Recursion](https://github.com/mryenagandula/Javascript_Recursion)
 - [Functions Currying](https://github.com/mryenagandula/JavaScript_Functions_Currying)
 - [Function Closures](https://github.com/mryenagandula/JavaScript_Function_Closures)
+- [Pure Vs Impure Functions](https://github.com/mryenagandula/Javascript_Pure_Vs_Impure_Functions)
+
+**Others**
+- [Naming Conventions](https://github.com/mryenagandula/Naming_Conventions)
 
 **Stackblitz - MrYenagandula (Live Examples)**
 - [Stackblitz Main Page](https://stackblitz.com/@mryenagandula)
