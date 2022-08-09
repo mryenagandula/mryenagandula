@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 - [Angular Ngrx Example with Node Js API with out using input and output (Passing Data from parent to child and vice versa)][angular-ngrx-example]
 - [Angular Service Integration](https://github.com/mryenagandula/angular-service-integration)
 - [Angular Load Data Based On Selection](https://github.com/mryenagandula/angular-load-data-based-on-selection)
+- [Angular Load Huge Data Using Json Object](https://github.com/mryenagandula/angular-countries-dump-huge-data)
 
 **Node JS**
 - [Node JS API][node-js-api]
