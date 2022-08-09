@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 **Angular**
 - [Angular Material Forms][angular-material-forms]
 - [Angular Material Forms UserName Availabitlity with Node Js API][angular-material-forms-username-availability]
-- [Angular Form Array Part 1][angular-formarray-example]
-- [Angular Form Array Part 2][angular-formarray-example-2]
+- [Angular Form Array Example 1][angular-formarray-example]
+- [Angular Form Array Example 2][angular-formarray-example-2]
 - [Angular Material Table with Node JS API][angular-material-table]
 - [Angular Material Table Filters with Node JS API][angular-material-table-with-filter]
 - [Angular Material Table Search with Node JS API][angular-material-table-with-filter-and-search]
