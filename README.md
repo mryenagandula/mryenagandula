@@ -49,7 +49,8 @@ Here are some ideas to get you started:
 - [Spring Srikanth][SPRINGSRIKANTH]
 
 **Live Project URLS For Testing**
-- [Backend API](https://letstalk-be.herokuapp.com/public/users)
+- [Free Node Js API](https://letstalk-be.herokuapp.com/welcome)
+- [Sample Angular Project](https://letstalkclub.herokuapp.com/)
 
 **Languages and Tools:**
 
