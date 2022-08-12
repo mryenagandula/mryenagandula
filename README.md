@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 <br />
 
 **Angular**
+- [Angular Material Table with Json server API ](https://github.com/mryenagandula/angular-table-with-json-server)
 - [Angular Material Forms][angular-material-forms]
 - [Angular Material Forms UserName Availabitlity with Node Js API][angular-material-forms-username-availability]
 - [Angular Form Array Example 1][angular-formarray-example]
@@ -54,6 +55,7 @@ Here are some ideas to get you started:
 **Live Project URLS For Testing**
 - [Free Node Js API](https://letstalk-be.herokuapp.com/welcome)
 - [Sample Angular Project](https://letstalkclub.herokuapp.com/)
+- [Free Json Server](https://my-json-server.typicode.com/mryenagandula/json-server)
 
 **Languages and Tools:**
 
