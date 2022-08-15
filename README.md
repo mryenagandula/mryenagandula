@@ -2,7 +2,7 @@
 
 **MrYenagandula** is a ✨ _Good Resource_ ✨ and its contains more repositorys on new technologies and frame works.
 
-***IF YOU FOUND MY REPOS USEFUL PLEASE SHARE AND FOLLOW MY GITHUB***
+***IF YOU FOUND MY REPOS USEFUL PLEASE SHARE AND [FOLLOW](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmryenagandula) MY GITHUB***
 
 Here are some ideas to get you started:
 
