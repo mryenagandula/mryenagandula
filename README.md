@@ -2,6 +2,8 @@
 
 **MrYenagandula** is a ✨ _Good Resource_ ✨ and its contains more repositorys on new technologies and frame works.
 
+***IF YOU FOUND MY REPOS USEFUL PLEASE SHARE AND FOLLOW MY GITHUB***
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Angular 9.
