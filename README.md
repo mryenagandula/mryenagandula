@@ -2,7 +2,7 @@
 
 **MrYenagandula** is a ✨ _Good Resource_ ✨ and its contains more repositorys on new technologies and frame works.
 
-***IF YOU FOUND MY REPOS USEFUL PLEASE SHARE AND [FOLLOW](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmryenagandula) MY GITHUB***
+***IF YOU FOUND MY REPOS USEFUL PLEASE SHARE AND [FOLLOW](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmryenagandula) MY GITHUB and also follow and subscribe to my [Medium](https://mryenagandula.medium.com/)***
 
 Here are some ideas to get you started:
 
@@ -14,24 +14,34 @@ Here are some ideas to get you started:
 
 <br />
 
-**Angular**
-- [Angular Material Table with Json server API ](https://github.com/mryenagandula/angular-table-with-json-server)
+**Angular Projects**
+
+**Angular Material**
 - [Angular Material Forms][angular-material-forms]
 - [Angular Material Forms UserName Availabitlity with Node Js API][angular-material-forms-username-availability]
-- [Angular Form Array Example 1][angular-formarray-example]
-- [Angular Form Array Example 2][angular-formarray-example-2]
+- [Angular Material Load Data Based On Selection](https://github.com/mryenagandula/angular-load-data-based-on-selection)
 - [Angular Material Table with Node JS API][angular-material-table]
 - [Angular Material Table Filters with Node JS API][angular-material-table-with-filter]
 - [Angular Material Table Search with Node JS API][angular-material-table-with-filter-and-search]
+- [Angular Material Table Search with Query Params Using Node JS API](https://github.com/mryenagandula/angular-material-table-filter-search-and-query-params)
 - [Angular Material Table Checkboxes with Node JS API][angular-material-table-with-checkboxes]
 - [Angular Material Forms Adding Form Array in Forms][angular-material-forms-and-form-array]
+- [Angular Material Table with Json server API ](https://github.com/mryenagandula/angular-table-with-json-server)
+
+**Angular PrimeNG**
+- [Angular Primeng Setup With Simple PrimeNG Cards Example](https://github.com/mryenagandula/angular-primeng-setup-simple-example)
+
+**Angular Other Examples**
+- [Angular Service Integration](https://github.com/mryenagandula/angular-service-integration)
+- [Angular Load Huge Data Using Json Object](https://github.com/mryenagandula/angular-countries-dump-huge-data)
+- [Angular Form Array Example 1][angular-formarray-example]
+- [Angular Form Array Example 2][angular-formarray-example-2]
 - [Angular Input and Output (Passing Data from parent to child and vice versa)][angular-input-and-output]
 - [Angular View Child with out using input and output (Passing Data from parent to child and vice versa)][angular-input-and-output-with-viewchild]
+
+**Angular Ngrx**
 - [Angular Ngrx Simple Example with Node Js API (Setting up angular app with NgRx)][angular-ngrx-simple-example]
 - [Angular Ngrx Example with Node Js API with out using input and output (Passing Data from parent to child and vice versa)][angular-ngrx-example]
-- [Angular Service Integration](https://github.com/mryenagandula/angular-service-integration)
-- [Angular Load Data Based On Selection](https://github.com/mryenagandula/angular-load-data-based-on-selection)
-- [Angular Load Huge Data Using Json Object](https://github.com/mryenagandula/angular-countries-dump-huge-data)
 
 **Node JS**
 - [Node JS API][node-js-api]
