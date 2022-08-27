@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 - [Angular Form Array Example 2][angular-formarray-example-2]
 - [Angular Input and Output (Passing Data from parent to child and vice versa)][angular-input-and-output]
 - [Angular View Child with out using input and output (Passing Data from parent to child and vice versa)][angular-input-and-output-with-viewchild]
+- [Angular lazy load data based on scroll](https://github.com/mryenagandula/angular-lazy-loading-data)
 
 **Angular Ngrx**
 - [Angular Ngrx Simple Example with Node Js API (Setting up angular app with NgRx)][angular-ngrx-simple-example]
