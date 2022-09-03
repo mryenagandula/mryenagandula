@@ -97,6 +97,12 @@ Here are some ideas to get you started:
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mryenagandula&show_icons=true&locale=en&layout=compact" alt="Srikanth Y | MrYenagandula's Github Stats" width="410" />
 
 
+<br/> <br/> <br/> <br/>
+<a href="https://github.com/mryenagandula" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=mryenagandula&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+</a>
+
+
 
 
 
