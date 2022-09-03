@@ -88,8 +88,17 @@ Here are some ideas to get you started:
 <img width="180" alt="white-button" src="https://user-images.githubusercontent.com/98155788/187144823-63fd9ca5-bff6-4294-9ee7-8b2befe08e72.png"/>
 
 <br />
+<br />
 
-<img align="left" alt="Srikanth Y | MrYenagandula's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mryenagandula&show_icons=true&hide_border=true" />
+<a href="https://github.com/mryenagandula" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mryenagandula&show_icons=true&locale=en&layout=compact" alt="Srikanth Y | MrYenagandula's ost Used Languages" width="410" />
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mryenagandula&show_icons=true&locale=en&layout=compact" alt="Srikanth Y | MrYenagandula's Github Stats" width="410" />
+
+
+
+
 
 
 
