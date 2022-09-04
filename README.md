@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 - [Pure Vs Impure Functions](https://github.com/mryenagandula/Javascript_Pure_Vs_Impure_Functions)
 
 **Java**
+<br />
 ✨ _Comming Soon_ ✨ 
 
 **Others**
