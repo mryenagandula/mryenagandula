@@ -2,7 +2,7 @@
 
 **MrYenagandula** is a ✨ _Good Resource_ ✨ and its contains more repositorys on new technologies and frame works.
 
-***IF YOU FOUND MY REPOS USEFUL PLEASE SHARE AND [FOLLOW](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmryenagandula) MY GITHUB and also follow and subscribe to my [Medium](https://mryenagandula.medium.com/)***
+***If you found my repos useful please share and [follow](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmryenagandula) my GitHub and also follow and subscribe to my [Medium](https://mryenagandula.medium.com/)***
 
 Here are some ideas to get you started:
 
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 - [Pure Vs Impure Functions](https://github.com/mryenagandula/Javascript_Pure_Vs_Impure_Functions)
 
 **Java**
-- comming soon
+✨ _Comming Soon_ ✨ 
 
 **Others**
 - [Naming Conventions](https://github.com/mryenagandula/Naming_Conventions)
@@ -92,8 +92,9 @@ Here are some ideas to get you started:
 **For Support**
 
 
-<a href="https://www.buymeacoffee.com/mryenagandula" />
+<a href="https://www.buymeacoffee.com/mryenagandula" >
 <img width="180" alt="white-button" src="https://user-images.githubusercontent.com/98155788/187144823-63fd9ca5-bff6-4294-9ee7-8b2befe08e72.png"/>
+</a>
 
 <br />
 <br />
