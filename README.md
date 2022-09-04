@@ -41,9 +41,12 @@ Here are some ideas to get you started:
 - [Angular lazy load data based on scroll](https://github.com/mryenagandula/angular-lazy-loading-data)
 - [Angular File upload simple example incl progress bar](https://github.com/mryenagandula/angular-file-upload-simple-example)
 
-**Angular Ngrx**
+**Angular Ngrx Examples**
 - [Angular Ngrx Simple Example with Node Js API (Setting up angular app with NgRx)][angular-ngrx-simple-example]
 - [Angular Ngrx Example with Node Js API with out using input and output (Passing Data from parent to child and vice versa)][angular-ngrx-example]
+
+**Angular Ngxs Examples**
+- [Angular Ngxs Simple Example with Pokeman API (Setting up angular app with Ngxs)](https://github.com/mryenagandula/angular-ngxs-simple-example)
 
 **Node JS**
 - [Node JS API][node-js-api]
