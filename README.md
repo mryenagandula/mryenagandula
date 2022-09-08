@@ -65,6 +65,10 @@ Here are some ideas to get you started:
 <br />
 ✨ _Comming Soon_ ✨ 
 
+**React**
+<br />
+✨ _Comming Soon_ ✨ 
+
 **Others**
 - [Naming Conventions](https://github.com/mryenagandula/Naming_Conventions)
 
