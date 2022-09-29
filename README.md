@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 - [Angular Ngxs Simple Example with Pokeman API (Setting up angular app with Ngxs)](https://github.com/mryenagandula/angular-ngxs-simple-example)
 
 **Angular Sample Projects**
-- [Angular Sample Application with Node JS App (includes authentication , interceptors, guards and routing etc)](https://github.com/mryenagandula/Angular-Sample-Letstalk-App)
+- [Angular Application with Node JS App (includes authentication , interceptors, guards and routing etc)](https://github.com/mryenagandula/Angular-Sample-Letstalk-App)
 
 
 **Node JS**
-- [Node JS API][node-js-api]
+- [Node JS API ( Includes JWT Authentication and Rest APIs )][node-js-api]
 - [Node JS File Upload Rest API](https://github.com/mryenagandula/nodejs-file-upload-rest-api)
 
 **Java Script**
