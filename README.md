@@ -48,6 +48,9 @@ Here are some ideas to get you started:
 **Angular Ngxs Examples**
 - [Angular Ngxs Simple Example with Pokeman API (Setting up angular app with Ngxs)](https://github.com/mryenagandula/angular-ngxs-simple-example)
 
+**Angular GraphQL and Apollo Angular**
+- [Angular Apollo Graphql Simple Example](https://github.com/mryenagandula/angular-apollo-graphql-simple-example)
+
 **Angular Sample Projects**
 - [Angular Application with Node JS App (includes authentication , interceptors, guards and routing etc)](https://github.com/mryenagandula/Angular-Sample-Letstalk-App)
 
