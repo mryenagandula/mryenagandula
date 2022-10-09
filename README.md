@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - [Angular Apollo Graphql Simple Example](https://github.com/mryenagandula/angular-apollo-graphql-simple-example)
 
 **Angular Sample Projects**
-- [Angular Application with Node JS App (includes authentication , interceptors, guards and routing etc)](https://github.com/mryenagandula/Angular-Sample-Letstalk-App)
+- [Angular Application with Node JS App (includes authentication , interceptors, guards and routing etc)](https://github.com/mryenagandula/dailycoding-app)
 
 
 **Node JS**
