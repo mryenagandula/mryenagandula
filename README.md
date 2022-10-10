@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - [Angular Apollo Graphql Simple Example](https://github.com/mryenagandula/angular-apollo-graphql-simple-example)
 
 **Angular Sample Projects**
-- [Angular Application with Node JS App (includes authentication , interceptors, guards and routing etc)](https://github.com/mryenagandula/dailycoding-app)
+- [Angular Application with Node JS API (includes authentication , interceptors, guards and routing etc)](https://github.com/mryenagandula/dailycoding-app)
 
 
 **Node JS**
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 **React**
 <br />
-✨ _Comming Soon_ ✨ 
+- [React Application with Node JS API (includes authentication and routing etc)](https://github.com/mryenagandula/React-Letstalk-app) 
 
 **Others**
 - [Naming Conventions](https://github.com/mryenagandula/Naming_Conventions)
@@ -88,6 +88,7 @@ Here are some ideas to get you started:
 **Live Project URLS For Testing**
 - [Free Node Js API](https://letstalk-be.herokuapp.com/welcome)
 - [Sample Angular Project](https://letstalkclub.herokuapp.com/)
+- [Sample React Projec](https://phenomenal-sopapillas-611d8a.netlify.app/#/login)
 - [Free Json Server](https://my-json-server.typicode.com/mryenagandula/json-server)
 
 **Languages and Tools:**
