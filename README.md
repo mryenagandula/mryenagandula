@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 **Live Project URLS For Testing**
 - [Free Node Js API](https://letstalk-be.herokuapp.com/welcome)
 - [Sample Angular Project](https://letstalkclub.herokuapp.com/)
-- [Sample React Projec](https://phenomenal-sopapillas-611d8a.netlify.app/#/login)
+- [Sample React Project](https://phenomenal-sopapillas-611d8a.netlify.app/#/login)
 - [Free Json Server](https://my-json-server.typicode.com/mryenagandula/json-server)
 
 **Languages and Tools:**
