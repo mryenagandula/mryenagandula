@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 **Java**
 <br />
-✨ _Comming Soon_ ✨ 
+- [Core Java (Programs include all core java concepts with examples)](https://github.com/mryenagandula/core-java) 
 
 **React**
 <br />
