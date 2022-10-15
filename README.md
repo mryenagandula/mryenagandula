@@ -93,7 +93,7 @@ Here are some ideas to get you started:
 - [Free Json Server](https://my-json-server.typicode.com/mryenagandula/json-server)
 
 **Documents**
-- [Core Java Class Notes Word Preview Link] (https://docs.google.com/document/d/1ZrWn8Fx8b_I7yEMS3fZkA9bbcPNWhOFY0nYjHuCRMWA/edit?usp=sharing) 
+- [Core Java Class Notes Word Preview Link](https://docs.google.com/document/d/1ZrWn8Fx8b_I7yEMS3fZkA9bbcPNWhOFY0nYjHuCRMWA/edit?usp=sharing) 
 
 **Languages and Tools:**
 
