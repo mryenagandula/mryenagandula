@@ -39,7 +39,8 @@ Here are some ideas to get you started:
 - [Angular Input and Output (Passing Data from parent to child and vice versa)][angular-input-and-output]
 - [Angular View Child with out using input and output (Passing Data from parent to child and vice versa)][angular-input-and-output-with-viewchild]
 - [Angular lazy load data based on scroll](https://github.com/mryenagandula/angular-lazy-loading-data)
-- [Angular File upload simple example incl progress bar](https://github.com/mryenagandula/angular-file-upload-simple-example)
+- [Angular File upload simple example incl bootstrap progress bar](https://github.com/mryenagandula/angular-file-upload-simple-example)
+- [Angular Child routes passing data between two components](https://github.com/mryenagandula/angular-child-routes-simple-example)
 
 **Angular Ngrx Examples**
 - [Angular Ngrx Simple Example with Node Js API (Setting up angular app with NgRx)][angular-ngrx-simple-example]
