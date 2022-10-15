@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 **Java**
 <br />
 - [Core Java (Programs include all core java concepts with examples)](https://github.com/mryenagandula/core-java) 
+- [Core Java Class Notes (Include all core java concepts information in html with examples)](https://github.com/mryenagandula/core-java-class-notes) 
 
 **React**
 <br />
@@ -90,6 +91,9 @@ Here are some ideas to get you started:
 - [Sample Angular Project](https://letstalkclub.herokuapp.com/)
 - [Sample React Project](https://phenomenal-sopapillas-611d8a.netlify.app/#/login)
 - [Free Json Server](https://my-json-server.typicode.com/mryenagandula/json-server)
+
+** Documents 
+- [Core Java Class Notes Word Preview Link] (https://docs.google.com/document/d/1ZrWn8Fx8b_I7yEMS3fZkA9bbcPNWhOFY0nYjHuCRMWA/edit?usp=sharing) 
 
 **Languages and Tools:**
 
