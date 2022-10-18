@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 - [Angular File upload simple example incl bootstrap progress bar](https://github.com/mryenagandula/angular-file-upload-simple-example)
 - [Angular Child routes passing data between two components](https://github.com/mryenagandula/angular-child-routes-simple-example)
 - [Angular Reactive Forms Example with Static Data (incl create edit update and delete actions)](https://github.com/mryenagandula/angular-reactive-forms-static-example-incl-edit-delete)
+- [Angular Todo Application Includes Data binding, Event Binding and String interpolation](https://github.com/mryenagandula/angular-todo-app-incl-databinding-events)
 
 **Angular Ngrx Examples**
 - [Angular Ngrx Simple Example with Node Js API (Setting up angular app with NgRx)][angular-ngrx-simple-example]
