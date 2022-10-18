@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - [Angular Child routes passing data between two components](https://github.com/mryenagandula/angular-child-routes-simple-example)
 - [Angular Reactive Forms Example with Static Data (incl create edit update and delete actions)](https://github.com/mryenagandula/angular-reactive-forms-static-example-incl-edit-delete)
 - [Angular Todo Application Includes Data binding, Event Binding and String interpolation](https://github.com/mryenagandula/angular-todo-app-incl-databinding-events)
-- [Angular App Sharing Data Using Subjects](https://github.com/mryenagandula/angular-app-sharing-data-using-subjects)
+- [Angular App Sharing Data Between Two Components Using Subjects](https://github.com/mryenagandula/angular-app-sharing-data-using-subjects)
 
 **Angular Ngrx Examples**
 - [Angular Ngrx Simple Example with Node Js API (Setting up angular app with NgRx)][angular-ngrx-simple-example]
