@@ -77,6 +77,7 @@ Here are some ideas to get you started:
 <br />
 - [Core Java (Programs include all core java concepts with examples)](https://github.com/mryenagandula/core-java) 
 - [Core Java Class Notes (Include all core java concepts information in html with examples)](https://github.com/mryenagandula/core-java-class-notes) 
+- [Java 8 Notes With Examples](https://github.com/mryenagandula/java-8-notes-with-examples)
 
 **React**
 <br />
