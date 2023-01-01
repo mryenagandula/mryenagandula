@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - [Angular Material Table Checkboxes with Node JS API][angular-material-table-with-checkboxes]
 - [Angular Material Forms Adding Form Array in Forms][angular-material-forms-and-form-array]
 - [Angular Material Table with Json server API ](https://github.com/mryenagandula/angular-table-with-json-server)
-- [Angular App Material Forms And Confirming Passwords](https://github.com/mryenagandula/angular-material-forms-confirm-passwords)
+- [Angular Material Forms And Confirming Passwords](https://github.com/mryenagandula/angular-material-forms-confirm-passwords)
 
 **Angular PrimeNG**
 - [Angular Primeng Setup With Simple PrimeNG Cards Example](https://github.com/mryenagandula/angular-primeng-setup-simple-example)
